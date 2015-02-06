@@ -1,0 +1,9 @@
+Ingredients:
+ - Instant ramen cup
+ - Water
+
+Directions:
+  1. Boil water.
+  2. Add water to ramen cup.
+  3. Cover cup and wait 3 minutes.
+  4. Eat!
